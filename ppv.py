@@ -68,7 +68,8 @@ def parse_backend_time(timestr):
 
 def convert_to_local_str(dt_obj):
     try:
-        local_tz = ZoneInfo("America/Denver")
+        # Updated timezone to America/New_York (Eastern Time)
+        local_tz = ZoneInfo("America/New_York")
         dt_local = dt_obj.astimezone(local_tz)
         is_windows = platform.system() == "Windows"
         format_str = "%b %#d, %Y %#I:%M %p" if is_windows else "%b %-d, %Y %-I:%M %p"
@@ -151,6 +152,7 @@ def build_m3u(streams, url_map):
     for s in streams:
         unique_key = f"{s['name']}::{s['category']}::{s['iframe']}"
         urls = url_map.get(unique_key, [])
+        event_time = s.get('event_time')
 
         if not urls:
             print(f"⚠️ No working URLs for {s['name']}")
@@ -166,7 +168,12 @@ def build_m3u(streams, url_map):
                 continue
             added_urls.add(url)
 
-            lines.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{final_group}",{s["name"]}')
+            # Include event time in channel name if available
+            display_name = s["name"]
+            if event_time:
+                display_name = f"{display_name} [Event Time: {event_time}]"
+
+            lines.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{final_group}",{display_name}')
             lines.extend(CUSTOM_HEADERS)
             lines.append(url)
 
@@ -184,17 +191,25 @@ async def main():
             iframe = stream.get("iframe")
             channel = stream.get("channel", "")
             name = stream.get("name", "Unnamed Event")
+            event_time = None
 
+            # Try to extract the event time from the channel string
             if any(char.isdigit() for char in channel):
                 time_part = channel.strip().split()[-1]
                 dt = parse_backend_time(time_part)
                 if dt:
                     local_time = convert_to_local_str(dt)
                     if local_time:
+                        event_time = local_time
                         name += f" ({local_time})"
 
             if iframe:
-                streams.append({"name": name, "iframe": iframe, "category": cat})
+                streams.append({
+                    "name": name,
+                    "iframe": iframe,
+                    "category": cat,
+                    "event_time": event_time
+                })
 
     if not streams:
         print("🚫 No valid streams found.")
