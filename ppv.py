@@ -1,9 +1,16 @@
+"""
+stream_playlist_generator.py
+
+Event start times are extracted from the channel string when present and included in the M3U8 playlist as part of the channel name and as a custom #EXT-X-START-TIME tag.
+"""
+
 import asyncio
 from playwright.async_api import async_playwright
 import aiohttp
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 import platform
+import re
 
 API_URL = "https://ppv.to/api/streams"
 
@@ -168,10 +175,10 @@ def build_m3u(streams, url_map):
                 continue
             added_urls.add(url)
 
-            # Include event time in channel name if available
             display_name = s["name"]
             if event_time:
                 display_name = f"{display_name} [Event Time: {event_time}]"
+                lines.append(f"#EXT-X-START-TIME:{event_time}")  # Custom tag for event start time
 
             lines.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{final_group}",{display_name}')
             lines.extend(CUSTOM_HEADERS)
@@ -193,15 +200,16 @@ async def main():
             name = stream.get("name", "Unnamed Event")
             event_time = None
 
-            # Try to extract the event time from the channel string
-            if any(char.isdigit() for char in channel):
-                time_part = channel.strip().split()[-1]
+            # Robust extraction of event time using regex
+            match = re.search(r'\b\d{1,2}:\d{2}:\d{2}\b', channel)
+            if match:
+                time_part = match.group(0)
                 dt = parse_backend_time(time_part)
                 if dt:
                     local_time = convert_to_local_str(dt)
                     if local_time:
                         event_time = local_time
-                        name += f" ({local_time})"
+            # Do NOT append event_time to name here!
 
             if iframe:
                 streams.append({
