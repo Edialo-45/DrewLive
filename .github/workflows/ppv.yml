@@ -25,8 +25,13 @@ jobs:
           playwright install firefox
           playwright install-deps
 
-      - name: 🎯 Run scraping script
+      - name: 🎯 Run scraping script and generate playlist with event start times
         run: python ppv.py
+
+      - name: 📝 Show playlist excerpt for audit/debug (optional)
+        run: |
+          echo "First 20 lines of PPVLand.m3u8 (should include event start times):"
+          head -20 PPVLand.m3u8
 
       - name: 💾 Commit & force-push playlist if changed (excluding workflow files)
         run: |
