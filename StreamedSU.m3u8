@@ -1,19 +1,29 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",ESPN First Take (English - SD)
+https://rr.strmd.top/secure/uNAYitZqxy/alpha/stream/espn-first-take/3/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Hawks at Celtics (Consolation) (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1OWIxOTc5N2ZiOWJhLTExZjktYTg3NC0xMGU3LWUzYzViZjM2/master.m3u8?md5=UqpUW33Al8aX-q4W-uYhYA&expires=1753064933&t=1753021733
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1OWIxOTc5N2ZiOWJhLTExZjktYTg3NC0xMGU3LWUzYzViZjM2/master.m3u8?md5=4U5e98vpD8Ob2Hkhjy4G4g&expires=1753072473&t=1753029273
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Grizzlies at Clippers (Consolation) (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MWIwZTYwOWY0NTQ3LTMzNTktZTcxNC05ODJiLTY0NjkwOGFi/master.m3u8?md5=JfiS0b0vgei3hDK_8u-eLQ&expires=1753065026&t=1753021826
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MWIwZTYwOWY0NTQ3LTMzNTktZTcxNC05ODJiLTY0NjkwOGFi/master.m3u8?md5=RTf3deJcbR0jt3dvLA0OOA&expires=1753072573&t=1753029373
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulRhxCEQ2ACYgbVzg1sgIwey8QsQiEM9bPeYhD+9vS+oZ6e9ioEMMB4unRgLPIukkK08eRgScAuQhBAA.webp" group-title="StreamedSU - Basketball",NBA Summer League Championship: Charlotte Hornets vs Sacramento Kings (English - HD)
+https://rr.strmd.top/secure/kTrGmYesjC/charlie/stream/sacramento-kings-vs-charlotte-hornets-1629451567/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Kings at Hornets (Championship) (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjBlNzZmNmRkMzU3LWE0M2EtNTU3NC05Y2MzLTY1Njg5Y2Rh/master.m3u8?md5=ogUsPk0WYtrShP8BQNE_Qg&expires=1753065146&t=1753021946
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEIno4cDXiAiXbIYABNhHEI5DZsMa9-eNX7u7MkuQsIEIQrAz8MMB4unRgLPKRkkK08eRgScCREUA.webp" group-title="StreamedSU - Basketball",WNBA: Indiana Fever vs New York Liberty (English - HD)
-https://rr.strmd.top/secure/TTHcygyFHw/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEBBAgxAEzIhyiIUI68Qtay1shLLziGZfmZjAMnji+ocxOZmwEQXi6dGAs8hCcrFjAceRgicApQhBAA.webp" group-title="StreamedSU - Basketball",WNBA: Atlanta Dream vs Las Vegas Aces (English - HD)
-https://rr.strmd.top/secure/GdGzCRvewg/charlie/stream/atlanta-dream-vs-las-vegas-aces-1629451648/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIopCImdcgwDGzcT3giq3Al1ZgwufFaA.webp" group-title="StreamedSU - Football",Arkadag vs Bashkimi Kumanovo ( - HD)
-https://rr.strmd.top/secure/jmTwtizDTn/echo/stream/fc-midtjylland-vs-odense-football-1379353/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",BELGIUM Super Cup: Royale Union SG vs Club Brugge KV (English - HD)
-https://rr.strmd.top/secure/XgJyEHGeWv/charlie/stream/union-saint-gilloise-vs-club-brugge-1629451539/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Los Angeles Chargers vs. Detroit Lions (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=QrToe3KP3U3wLzXrZZoJ8w&expires=1753066951&t=1753023751
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaECxAhgEEABMyIbNZyWQhXpxBWz2b3fOPziOb05iCIVlb+oS78MMB4unRgLPIQnKxYcWJgSZbpEEA.webp" group-title="StreamedSU - Baseball",MLB: Cincinnati Reds vs Washington Nationals (English - HD)
-https://rr.strmd.top/secure/MPHabMStwJ/charlie/stream/cincinnati-reds-vs-washington-nationals-1629451636/1/playlist.m3u8
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjBlNzZmNmRkMzU3LWE0M2EtNTU3NC05Y2MzLTY1Njg5Y2Rh/master.m3u8?md5=oWPSGE8jlxKd_0TH91NOxg&expires=1753072714&t=1753029514
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Seattle Storm vs Dallas Wings (English - HD)
+https://rr.strmd.top/secure/JEhcwamHJB/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",BELGIUM Super Cup: Royale Union SG vs Club Brugge KV (Português - SD)
+https://rr.strmd.top/secure/gNKlprNjml/alpha/stream/belgium-super-cup-royale-union-sg-vs-club-brugge-kv/14/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Milwaukee Brewers vs San Diego Padres (English - SD)
+https://rr.strmd.top/secure/RMxfkNQfhU/alpha/stream/floyds-knobs-in-vs-appleton-wi/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - GP of Monterey (English - SD)
+https://rr.strmd.top/secure/BXNkxhCGTY/alpha/stream/nhra-northwest-nationals-elimination-finals-kent-wash/3/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Formula 1 2025 - Belgium GP (English - SD)
+https://rr.strmd.top/secure/BXNkxhCGTY/alpha/stream/nhra-northwest-nationals-elimination-finals-kent-wash/3/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Formula E 2025 - GP London 2 (English - SD)
+https://rr.strmd.top/secure/BXNkxhCGTY/alpha/stream/nhra-northwest-nationals-elimination-finals-kent-wash/3/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",UFC Fight Night: Whittaker vs de Ridder (English - HD)
+https://rr.strmd.top/secure/sHkdCMMaUL/charlie/stream/uae-warriors-61-1629451662/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Claressa Shields vs Lani Daniels (English - HD)
+https://rr.strmd.top/secure/sHkdCMMaUL/charlie/stream/uae-warriors-61-1629451662/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Xander Zayas vs Jorge Garcia Perez (English - HD)
+https://rr.strmd.top/secure/sHkdCMMaUL/charlie/stream/uae-warriors-61-1629451662/1/playlist.m3u8
