@@ -1,21 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Hawks at Celtics (Consolation) (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1OWIxOTc5N2ZiOWJhLTExZjktYTg3NC0xMGU3LWUzYzViZjM2/master.m3u8?md5=UqpUW33Al8aX-q4W-uYhYA&expires=1753064933&t=1753021733
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Grizzlies at Clippers (Consolation) (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MWIwZTYwOWY0NTQ3LTMzNTktZTcxNC05ODJiLTY0NjkwOGFi/master.m3u8?md5=JfiS0b0vgei3hDK_8u-eLQ&expires=1753065026&t=1753021826
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Kings at Hornets (Championship) (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjBlNzZmNmRkMzU3LWE0M2EtNTU3NC05Y2MzLTY1Njg5Y2Rh/master.m3u8?md5=ogUsPk0WYtrShP8BQNE_Qg&expires=1753065146&t=1753021946
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEIno4cDXiAiXbIYABNhHEI5DZsMa9-eNX7u7MkuQsIEIQrAz8MMB4unRgLPKRkkK08eRgScCREUA.webp" group-title="StreamedSU - Basketball",WNBA: Indiana Fever vs New York Liberty (English - HD)
-https://rr.strmd.top/secure/ZOtJhhXvIS/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Seattle Storm vs Dallas Wings (English - HD)
-https://rr.strmd.top/secure/ZOtJhhXvIS/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
+https://rr.strmd.top/secure/TTHcygyFHw/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEBBAgxAEzIhyiIUI68Qtay1shLLziGZfmZjAMnji+ocxOZmwEQXi6dGAs8hCcrFjAceRgicApQhBAA.webp" group-title="StreamedSU - Basketball",WNBA: Atlanta Dream vs Las Vegas Aces (English - HD)
-https://rr.strmd.top/secure/EEhEjpZHcL/charlie/stream/atlanta-dream-vs-las-vegas-aces-1629451648/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgkYcAKZ8Q3EDr0QQKEEZIhzMXAQraUXMGXhF5o+01phHY0RCA.webp" group-title="StreamedSU - Football",Malvern Town vs Hereford ( - HD)
-https://rr.strmd.top/secure/BYggYHEHtb/echo/stream/fc-fredericia-vs-fc-nordsjaelland-football-1379350/1/playlist.m3u8
+https://rr.strmd.top/secure/GdGzCRvewg/charlie/stream/atlanta-dream-vs-las-vegas-aces-1629451648/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIopCImdcgwDGzcT3giq3Al1ZgwufFaA.webp" group-title="StreamedSU - Football",Arkadag vs Bashkimi Kumanovo ( - HD)
+https://rr.strmd.top/secure/jmTwtizDTn/echo/stream/fc-midtjylland-vs-odense-football-1379353/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",BELGIUM Super Cup: Royale Union SG vs Club Brugge KV (English - HD)
-https://rr.strmd.top/secure/XrxEsebGWA/charlie/stream/union-saint-gilloise-vs-club-brugge-1629451539/1/playlist.m3u8
+https://rr.strmd.top/secure/XgJyEHGeWv/charlie/stream/union-saint-gilloise-vs-club-brugge-1629451539/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Los Angeles Chargers vs. Detroit Lions (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=y7QE-FX_X0nojvyMcuP3NA&expires=1753061492&t=1753018292
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",UFC Fight Night: Whittaker vs de Ridder (English - HD)
-https://rr.strmd.top/secure/VSdAwCPGgS/charlie/stream/the-ultimate-fighter-33-team-cormier-vs-team-sonnen-episode-9-1629451653/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Claressa Shields vs Lani Daniels (English - HD)
-https://rr.strmd.top/secure/VSdAwCPGgS/charlie/stream/the-ultimate-fighter-33-team-cormier-vs-team-sonnen-episode-9-1629451653/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Kenshiro Teraji vs Ricardo Rafael Sandoval (English - HD)
-https://rr.strmd.top/secure/VSdAwCPGgS/charlie/stream/the-ultimate-fighter-33-team-cormier-vs-team-sonnen-episode-9-1629451653/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",2025 Open Championship - Final Round 🏌 ( - HD)
-https://rr.strmd.top/secure/twbBaPxYKt/echo/stream/atp-tour-250-bastad-gstaad-los-cabos-wta-tour-250-budapest-hamburg-iasi-atp-2025/2/playlist.m3u8
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=QrToe3KP3U3wLzXrZZoJ8w&expires=1753066951&t=1753023751
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaECxAhgEEABMyIbNZyWQhXpxBWz2b3fOPziOb05iCIVlb+oS78MMB4unRgLPIQnKxYcWJgSZbpEEA.webp" group-title="StreamedSU - Baseball",MLB: Cincinnati Reds vs Washington Nationals (English - HD)
+https://rr.strmd.top/secure/MPHabMStwJ/charlie/stream/cincinnati-reds-vs-washington-nationals-1629451636/1/playlist.m3u8
