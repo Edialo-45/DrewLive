@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Los Angeles Chargers vs. Detroit Lions (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=IahxXMjtkctsgAybd8LElQ&expires=1753472732&t=1753429532
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - GP of Madison (Español - SD)
-https://rr.strmd.top/secure/qfiUriVNqK/alpha/stream/fia-formula-3-2025-belgian-f3gp-practice-session/6/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKmSkQh4S+binZgi8FgoINSNDoYqsIQA.webp" group-title="StreamedSU - American Football",Los Angeles Chargers vs. Detroit Lions (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=7eOyz9wMDSmj1xKcISIKIw&expires=1753497635&t=1753454435
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Belgian Grand Prix Sprint Qualifying (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTVhMTkyM2FkZGUzLTk2MWItY2VmNC1iY2E4LTgxZjA4MWM2/master.m3u8?md5=ZB2MEVDR17hxUzhCyvPr5A&expires=1753500025&t=1753456825
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - GP of Madison (English - SD)
+https://rr.strmd.top/secure/cuJQMNEYIW/alpha/stream/world-superbikes-practice-2/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - Indianapolis 500 (English - SD)
+https://rr.strmd.top/secure/cuJQMNEYIW/alpha/stream/world-superbikes-practice-2/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Belgian Grand Prix Sprint (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTVhMTkyM2FkZGUzLTk2MWItY2VmNC1iY2E4LTgxZjA4MWM2/master.m3u8?md5=k202MzOxd0qR1UAvf4hrQA&expires=1753500873&t=1753457673
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",F1: Belgian Grand Prix (Race) (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTVhMTkyM2FkZGUzLTk2MWItY2VmNC1iY2E4LTgxZjA4MWM2/master.m3u8?md5=f8LnzvYp-MUF2DUjh2Q34w&expires=1753501084&t=1753457884
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE: Friday Night Smackdown (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=0nKGxn2RU75qZLni8W0H6g&expires=1753501752&t=1753458552
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",AEW: Saturday Night Collision (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=AgaLWvLtC5jnh9_ajRHvqg&expires=1753501856&t=1753458656
