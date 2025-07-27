@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
-# Last forced update: 2025-07-26T22:13:13.118767Z
+# Last forced update: 2025-07-27T03:19:51.191036Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -2790,70 +2790,6 @@ https://v1.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8?token=D7Msxluga-bO3M8S0K
 https://v5.thetvapp.to/hls/mlb-05/tracks-v1a1/mono.m3u8?token=3rU8_nO09UP6XkgDKjiXQg&expires=1753587208&user_id=bE1ZV0JpczRONVZ2MU4wSHlGYjdqUFAyVkNyWDFrRjVQVzJ3WHVSVQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Kansas City Royals - 7/26/25, 6:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Cleveland Guardians @ Kansas City Royals - 7/26/25, 6:41:00 PM UTC
 https://v5.thetvapp.to/hls/mlb-05/tracks-v2a1/mono.m3u8?token=rr9tPNSRovd-TSQlC89Xrg&expires=1753587203&user_id=bE1ZV0JpczRONVZ2MU4wSHlGYjdqUFAyVkNyWDFrRjVQVzJ3WHVSVQ==
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks @ Pittsburgh Pirates (07/26 6:40 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Arizona Diamondbacks @ Pittsburgh Pirates (07/26 6:40 Pm Et) Hd
-https://tvpass.org/live/mlb-26/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks @ Pittsburgh Pirates (07/26 6:40 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Arizona Diamondbacks @ Pittsburgh Pirates (07/26 6:40 Pm Et) Sd
-https://tvpass.org/live/mlb-26/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Texas Rangers (07/26 7:05 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Atlanta Braves @ Texas Rangers (07/26 7:05 Pm Et) Hd
-https://tvpass.org/live/mlb-13/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Texas Rangers (07/26 7:05 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Atlanta Braves @ Texas Rangers (07/26 7:05 Pm Et) Sd
-https://tvpass.org/live/mlb-13/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Chicago White Sox (07/26 7:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ Chicago White Sox (07/26 7:10 Pm Et) Hd
-https://tvpass.org/live/mlb-03/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Chicago White Sox (07/26 7:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ Chicago White Sox (07/26 7:10 Pm Et) Sd
-https://tvpass.org/live/mlb-03/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Kansas City Royals (07/26 2:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Kansas City Royals (07/26 2:41 Pm Et) Hd
-https://tvpass.org/live/mlb-05/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Kansas City Royals (07/26 2:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Kansas City Royals (07/26 2:41 Pm Et) Sd
-https://tvpass.org/live/mlb-05/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Kansas City Royals (07/26 7:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Kansas City Royals (07/26 7:16 Pm Et) Hd
-https://tvpass.org/live/mlb-05/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Kansas City Royals (07/26 7:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Kansas City Royals (07/26 7:16 Pm Et) Sd
-https://tvpass.org/live/mlb-05/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Baltimore Orioles (07/26 7:05 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Baltimore Orioles (07/26 7:05 Pm Et) Hd
-https://tvpass.org/live/mlb-17/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Baltimore Orioles (07/26 7:05 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Baltimore Orioles (07/26 7:05 Pm Et) Sd
-https://tvpass.org/live/mlb-17/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Boston Red Sox (07/26 7:15 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Dodgers @ Boston Red Sox (07/26 7:15 Pm Et) Hd
-https://tvpass.org/live/mlb-22/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Boston Red Sox (07/26 7:15 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Dodgers @ Boston Red Sox (07/26 7:15 Pm Et) Sd
-https://tvpass.org/live/mlb-22/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Milwaukee Brewers (07/26 7:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Milwaukee Brewers (07/26 7:10 Pm Et) Hd
-https://tvpass.org/live/mlb-16/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Milwaukee Brewers (07/26 7:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Milwaukee Brewers (07/26 7:10 Pm Et) Sd
-https://tvpass.org/live/mlb-16/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ San Francisco Giants (07/26 9:05 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ San Francisco Giants (07/26 9:05 Pm Et) Hd
-https://tvpass.org/live/mlb-27/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ San Francisco Giants (07/26 9:05 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ San Francisco Giants (07/26 9:05 Pm Et) Sd
-https://tvpass.org/live/mlb-27/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Houston Astros (07/26 7:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Houston Astros (07/26 7:10 Pm Et) Hd
-https://tvpass.org/live/mlb-06/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Houston Astros (07/26 7:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Houston Astros (07/26 7:10 Pm Et) Sd
-https://tvpass.org/live/mlb-06/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ New York Yankees (07/26 1:05 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ New York Yankees (07/26 1:05 Pm Et) Hd
-https://tvpass.org/live/mlb-15/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ New York Yankees (07/26 1:05 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ New York Yankees (07/26 1:05 Pm Et) Sd
-https://tvpass.org/live/mlb-15/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ St. Louis Cardinals (07/26 7:15 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Diego Padres @ St. Louis Cardinals (07/26 7:15 Pm Et) Hd
-https://tvpass.org/live/mlb-08/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ St. Louis Cardinals (07/26 7:15 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Diego Padres @ St. Louis Cardinals (07/26 7:15 Pm Et) Sd
-https://tvpass.org/live/mlb-08/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Los Angeles Angels (07/26 9:38 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Seattle Mariners @ Los Angeles Angels (07/26 9:38 Pm Et) Hd
-https://tvpass.org/live/mlb-29/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Los Angeles Angels (07/26 9:38 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Seattle Mariners @ Los Angeles Angels (07/26 9:38 Pm Et) Sd
-https://tvpass.org/live/mlb-29/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Cincinnati Reds (07/26 6:40 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Cincinnati Reds (07/26 6:40 Pm Et) Hd
-https://tvpass.org/live/mlb-04/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Cincinnati Reds (07/26 6:40 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Cincinnati Reds (07/26 6:40 Pm Et) Sd
-https://tvpass.org/live/mlb-04/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Detroit Tigers (07/26 6:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Detroit Tigers (07/26 6:10 Pm Et) Hd
-https://tvpass.org/live/mlb-21/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Detroit Tigers (07/26 6:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Detroit Tigers (07/26 6:10 Pm Et) Sd
-https://tvpass.org/live/mlb-21/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Minnesota Twins (07/26 7:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ Minnesota Twins (07/26 7:10 Pm Et) Hd
-https://tvpass.org/live/mlb-20/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Minnesota Twins (07/26 7:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ Minnesota Twins (07/26 7:10 Pm Et) Sd
-https://tvpass.org/live/mlb-20/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="MoveOnJoy" radio="false",5 StarMax
@@ -7694,10 +7630,6 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=-Y9Fbr_59symNcUJ8UEpBA&expires=1753587350&user_id=bE1ZV0JpczRONVZ2MU4wSHlGYjdqUFAyVkNyWDFrRjVQVzJ3WHVSVQ==
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night: Robert Whittaker v Reinier de Ridder - 7/26/25, 5:05:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV",UFC Fight Night: Robert Whittaker v Reinier de Ridder - 7/26/25, 5:05:00 PM UTC
 https://v8.thetvapp.to/hls/tnt-sports-2/tracks-v2a1/mono.m3u8?token=UqL7X7aA-6MCPOG-hjWRAg&expires=1753587345&user_id=bE1ZV0JpczRONVZ2MU4wSHlGYjdqUFAyVkNyWDFrRjVQVzJ3WHVSVQ==
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ufc Fight Night: Robert Whittaker V Reinier De Ridder (07/26 1:05 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="PPV",Ufc Fight Night: Robert Whittaker V Reinier De Ridder (07/26 1:05 Pm Et) Hd
-https://tvpass.org/live/tnt-sports-2/hd
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ufc Fight Night: Robert Whittaker V Reinier De Ridder (07/26 1:05 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="PPV",Ufc Fight Night: Robert Whittaker V Reinier De Ridder (07/26 1:05 Pm Et) Sd
-https://tvpass.org/live/tnt-sports-2/sd
 
 #EXTGRP:PPVLand - Baseball Action HD
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Athletics vs. Houston Astros
@@ -12662,13 +12594,3 @@ https://ott.udptv.in/stream/udptv/vevocountry/master.m3u8?u=discord.gg/civ4&p=b4
 https://ott.udptv.in/stream/udptv/vevohiphop/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 #EXTINF:-1  tvg-name="Warner TV Serie DE" tvg-id="skyde/warnertvserie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-serie-de.png?raw=true" group-title="UDPTV Live Streams",Warner TV Serie DE
 https://ott.udptv.in/stream/udptv/vevorb/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
-
-#EXTGRP:WNBA
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Los Angeles Sparks @ New York Liberty (07/26 7:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Los Angeles Sparks @ New York Liberty (07/26 7:00 Pm Et) Hd
-https://tvpass.org/live/WNBA01/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Los Angeles Sparks @ New York Liberty (07/26 7:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Los Angeles Sparks @ New York Liberty (07/26 7:00 Pm Et) Sd
-https://tvpass.org/live/WNBA01/sd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Washington Mystics (07/26 7:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Seattle Storm @ Washington Mystics (07/26 7:30 Pm Et) Hd
-https://tvpass.org/live/WNBA01/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Washington Mystics (07/26 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Seattle Storm @ Washington Mystics (07/26 7:30 Pm Et) Sd
-https://tvpass.org/live/WNBA01/sd
