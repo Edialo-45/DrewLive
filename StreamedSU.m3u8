@@ -1,117 +1,281 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Hertha BSC vs Karlsruher SC (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0UTY0I2YhFDMxMzMtkTZxEWLmRjY00CN0YDOtIWM3ATNldzN/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",VfL Bochum 1848 vs SV 07 Elversberg (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LykzYlBTY2AzMzUGZtgjYyEWL5cTO00CNjdDNtMmNyM2NiRWM/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Holstein Kiel vs Arminia Bielefeld (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiVDOlBDNiFWOjRWNtIjZhlTLzITM00SY3cTMtQWMkNjY4kjZ/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Sporting Kansas City vs San Diego FC (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWIyYzBlOTFlNGU0LWQ0ZTktMTcyNC02NzM1LTIzZWViNDVm/master.m3u8?md5=bBezpM15xpGK8Fs9RMdduw&expires=1754994900&t=1754951700
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",St. Louis CITY SC vs Nashville SC (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTgxNjQ4NGYyOTE3LTE5Y2ItODgzNC03OGI2LWI2MDcyOWJk/master.m3u8?md5=Fzaz23ek9KdMmfJeJmBTYg&expires=1754994908&t=1754951708
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",FC Dallas vs Portland Timbers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDE2YWZiYTU2Y2Y0LTI3YjktNmYxNC0yMmYxLTdlYWU0ZDVj/master.m3u8?md5=Brf-EcXt-FY92cm9bBTWmw&expires=1754994917&t=1754951717
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Chicago Fire FC vs Los Angeles Football Club (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTMzZTBlOTFkNjIwLTEwYWEtNjAyNC1hMTgwLWM3NTI2MGUx/master.m3u8?md5=VFi_cGFMEeBgLSM5zit_kg&expires=1754994926&t=1754951726
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Austin FC vs Houston Dynamo FC (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM3ZTRmMWJiYWM1LWI1MzgtZGNlNC0yNmI3LWQ4NWU2NjZi/master.m3u8?md5=TWh1810QyTjFZE5mA5Fs9A&expires=1754994935&t=1754951735
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title="StreamedSU - Basketball",Golden State Valkyries vs Connecticut Sun (English - HD)
+https://rr.strmd.top/secure/UIlElhStNT/alpha/stream/golden-state-valkyries-w-vs-connecticut-sun-w/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",NFL NETWORK ( - HD)
+https://rr.strmd.top/secure/QnQAdaGrfj/foxtrot/stream/6570a839bae85135f61b12cb/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",ESPN First Take (English - SD)
+https://rr.strmd.top/secure/hzkouLLmRB/alpha/stream/espn-first-take/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",NBA TV (English - HD)
+https://rr.strmd.top/secure/PEiFxGimxP/alpha/stream/nba-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpji18IACZgyIEN00gUIRPr4gz+mMYIUmfFF23l680Q6a0w2saIhA.webp" group-title="StreamedSU - Basketball",Mali Basketball vs Egypt Basketball (English - HD)
+https://rr.strmd.top/secure/RgFXVblCrv/charlie/stream/mali-vs-egypt-1629455844/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wSMChAkQKUiG7ajIVab4GTICAQpM+etmDLwi80Xqa0wTsaIhA.webp" group-title="StreamedSU - Basketball",Angola Basketball vs Libya Basketball (English - HD)
+https://rr.strmd.top/secure/ebcuoTBARf/charlie/stream/angola-vs-libya-1629455847/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp" group-title="StreamedSU - Basketball",Indiana Fever vs Dallas Wings (English - HD)
+https://rr.strmd.top/secure/PBBLFHkvht/charlie/stream/dallas-wings-vs-indiana-fever-1629455857/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhmRevVXcQfEDFW6QAExP6zjCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title="StreamedSU - Basketball",Madagascar Basketball vs Nigeria Basketball (English - HD)
+https://rr.strmd.top/secure/FvfgrPmrdR/charlie/stream/madagascar-vs-nigeria-1629455871/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Afrobasket: Cote d'Ivoire vs Rwanda (English - HD)
+https://rr.strmd.top/secure/MycxpLysCW/charlie/stream/cote-divoire-vs-rwanda-1629455874/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qs29AAxgUIbiBIgAJiBgmQ5nBBB8QKAhSZ8UXMGXhF5o501phXY0QggA.webp" group-title="StreamedSU - Basketball",Tunisia Basketball vs Cameroon Basketball (English - HD)
+https://rr.strmd.top/secure/HeyIQqfurE/charlie/stream/tunisia-vs-cameroon-1629455876/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphD8w4LGDIgQ3EABNcIFDpCIIICyWMEKTPii5by9eaMdNaYLWNEQgA.webp" group-title="StreamedSU - Basketball",D.R. Congo Basketball vs Cape Verde Basketball (English - HD)
+https://rr.strmd.top/secure/zcSKaPkFWw/charlie/stream/congo-dr-vs-cape-verde-1629455883/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp" group-title="StreamedSU - Basketball",Washington Mystics vs Golden State Valkyries (English - HD)
+https://rr.strmd.top/secure/jKgjQdMsbc/charlie/stream/golden-state-valkyries-vs-washington-mystics-1629455898/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuleiA4hsIEIgghCIFmYedeYx6exDbHu8G+scEAATKwChckk+AhhgPF06MBZ5CE5WLFixMES-NIggA.webp" group-title="StreamedSU - Basketball",WNBA: New York Liberty vs Las Vegas Aces (English - HD)
+https://rr.strmd.top/secure/WAWnRbmicH/charlie/stream/new-york-liberty-vs-las-vegas-aces-1629455899/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Afrobasket: Uganda vs Mali (English - HD)
+https://rr.strmd.top/secure/rKMZklJqsI/charlie/stream/uganda-vs-mali-1629455908/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Afrobasket: Libya vs South Sudan (English - HD)
+https://rr.strmd.top/secure/lBRhyfDXdN/charlie/stream/libya-vs-south-sudan-1629455915/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Afrobasket: Egypt vs Senegal (English - HD)
+https://rr.strmd.top/secure/AKQxfszwWj/charlie/stream/egypt-vs-senegal-1629455919/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Afrobasket: Guinea vs Angola (English - HD)
+https://rr.strmd.top/secure/POJIoNHMlD/charlie/stream/guinea-vs-angola-1629455922/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",FIBA Friendlies: Spain vs France (English - HD)
+https://rr.strmd.top/secure/tyQBWKtmgg/charlie/stream/spain-vs-france-1629455925/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Club Leon vs Monterrey (Spanish - HD)
+https://rr.strmd.top/secure/mFDCRJJFyJ/bravo/stream/1754960400000-club-leon-monterrey-spanish-/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUwxWIFAJqUQvEFhAkQ1EIhSmQECygIV8AzRzBl4RBWM336YZ+LEQgA.webp" group-title="StreamedSU - Football",León vs Monterrey (Español - HD)
+https://rr.strmd.top/secure/KAxnWdmyzD/alpha/stream/leon-vs-monterrey/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhySDeYBMHwhuIACYg+h-SEQgQMECQsEKTPii5gy8IvNGOmtDaKl0gA.webp" group-title="StreamedSU - Football",Racing de Córdoba vs Quilmes (English - HD)
+https://rr.strmd.top/secure/ficObrusee/alpha/stream/racing-cordoba-vs-quilmes/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Juventude vs Corinthians (English - HD)
+https://rr.strmd.top/secure/ViZgcqoZUC/bravo/stream/1754953200000-juventude-corinthians/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxz0qKEDBB8Q3ECRAATbSAimjIRIkMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",FC Juarez vs Toluca (English - HD)
+https://rr.strmd.top/secure/veoxAppTfT/charlie/stream/fc-juarez-vs-toluca-1379515/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApgABn7AkXEiG4g9KEIgggzIc-twEKTPmrZgy8IvNFqmtMM7GiIQA.webp" group-title="StreamedSU - Football",Atletico de San Luis vs Cruz Azul ( - HD)
+https://rr.strmd.top/secure/iFjRpQWKCx/echo/stream/atletico-san-luis-vs-cruz-azul-football-1379514/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgHwwAE2BJQYJCG4g+ICCEQ4DOGCGswCFJnxRcwZNfXminTWmBdjREEA.webp" group-title="StreamedSU - Football",Heidelberg United vs Western Sydney Wanderers (English - HD)
+https://rr.strmd.top/secure/IuZzZwWMiH/charlie/stream/heidelberg-united-vs-western-sydney-wanderers-1419578/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHS8Q+gjGB4mtKmBYJtXIbXPkw14MqEQgA.webp" group-title="StreamedSU - Football",Senegal vs Congo (English - HD)
+https://rr.strmd.top/secure/vmnQDBfmrM/charlie/stream/senegal-vs-congo-1419221/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Qarabağ vs Skendija 79 (English - HD)
+https://rr.strmd.top/secure/vmnQDBfmrM/charlie/stream/senegal-vs-congo-1419221/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAkYAWDCqUIbiAggjAExCJEOU3xDLCMYEz4ouYMvCLzRzprS2ipdEA.webp" group-title="StreamedSU - Football",Grasshoppers vs Bayern Munich (English - HD)
-https://rr.strmd.top/secure/XZrIdcIMhw/charlie/stream/grasshopper-vs-bayern-munchen-1629455846/1/playlist.m3u8
+https://rr.strmd.top/secure/jWOYnQTSwe/charlie/stream/grasshopper-vs-bayern-munchen-1629455846/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",FC København vs Malmö FF (English - HD)
-https://rr.strmd.top/secure/XZrIdcIMhw/charlie/stream/grasshopper-vs-bayern-munchen-1629455846/1/playlist.m3u8
+https://rr.strmd.top/secure/jWOYnQTSwe/charlie/stream/grasshopper-vs-bayern-munchen-1629455846/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHS8QLQ7gIxgeJrSpgWCbVyG1L5MLeDKhEIA.webp" group-title="StreamedSU - Football",Sudan vs Nigeria (English - HD)
+https://rr.strmd.top/secure/TjqWzUPFQs/charlie/stream/sudan-vs-nigeria-1419222/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLgUYbmHWJuICLj0gYIRIj4gUIC4RjAmfFFzBl4ReaMdNaYZ2NEQgA.webp" group-title="StreamedSU - Football",Coventry City vs Luton Town (English - HD)
-https://rr.strmd.top/secure/ohHlwMMzhX/charlie/stream/coventry-vs-luton-1393271/1/playlist.m3u8
+https://rr.strmd.top/secure/ESIOpeORSQ/charlie/stream/coventry-vs-luton-1393271/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBQU0OBBDcQWrSAMgYhnAeWEYwJnxRcwZeEXmjbTWmHtjREIA.webp" group-title="StreamedSU - Football",Cardiff City vs Swindon Town (English - HD)
-https://rr.strmd.top/secure/DeCyPllHCK/charlie/stream/cardiff-vs-swindon-town-1393267/1/playlist.m3u8
+https://rr.strmd.top/secure/bbLpJqwxOl/charlie/stream/cardiff-vs-swindon-town-1393267/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxSwJGHB8wSENxAATVfpB9cpmKfgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Bristol City vs Milton Keynes Dons (English - HD)
-https://rr.strmd.top/secure/rkjFDpbnaX/charlie/stream/bristol-city-vs-milton-keynes-dons-1393264/1/playlist.m3u8
+https://rr.strmd.top/secure/oBbzDTUgoj/charlie/stream/bristol-city-vs-milton-keynes-dons-1393264/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgAJtRRgyEENxC7dIY3pAwT+iAQpM+KLtvL15o+01phtY0RCA.webp" group-title="StreamedSU - Football",Blackburn Rovers vs Bradford City (English - HD)
+https://rr.strmd.top/secure/NWWSkgZams/charlie/stream/blackburn-vs-bradford-1393261/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizkAJmDLg+IbiAj6QRo3sQlcIPgQpMrXTeXrzRKYE1phNY0RCA.webp" group-title="StreamedSU - Football",West Bromwich Albion vs Derby County (English - HD)
-https://rr.strmd.top/secure/ayxjREOjMx/charlie/stream/west-brom-vs-derby-1393288/1/playlist.m3u8
+https://rr.strmd.top/secure/ChPRKyYyCg/charlie/stream/west-brom-vs-derby-1393288/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizky8MHzAoQ3EBH0gjRvYhK6QKAhSZ8UXMOqLzR9prTCOxoiEA.webp" group-title="StreamedSU - Football",Watford vs Norwich City (English - HD)
+https://rr.strmd.top/secure/pncCBlPWkZ/charlie/stream/watford-vs-norwich-1393287/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghuIACbAN2YPjWaQfECZMwjBkiYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Stoke City vs Walsall (English - HD)
-https://rr.strmd.top/secure/ukppJDceWa/charlie/stream/stoke-city-vs-walsall-1393284/1/playlist.m3u8
+https://rr.strmd.top/secure/kRNaZYURTJ/charlie/stream/stoke-city-vs-walsall-1393284/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh17cQEXCAAm6kGp0hdaxGpwkQywjGBM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Northampton Town vs Southampton (English - HD)
+https://rr.strmd.top/secure/wHnGSuyhIF/charlie/stream/northampton-vs-southampton-1393278/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5huIAQAYwSHSHUATEEfUoQJEDFwaQIAhSZ8UXMGXhF5o501phXY0QggA.webp" group-title="StreamedSU - Football",Bromley vs Ipswich Town (English - HD)
+https://rr.strmd.top/secure/zihHMmoOpr/charlie/stream/bromley-vs-ipswich-1393266/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHS8QLEBH4xgeJrSpgWCbVyG1L5MLeDKhEIA.webp" group-title="StreamedSU - Football",CONMEBOL Libertadores: Fortaleza EC vs Velez Sarsfield (English - HD)
+https://rr.strmd.top/secure/tPHNhzELly/charlie/stream/fortaleza-ec-vs-velez-sarsfield-1377443/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHS9DiQvxjA8TWlTAsE2rkNoXyYG8GVCIQA.webp" group-title="StreamedSU - Football",CONMEBOL Libertadores: Atletico Nacional vs Sao Paulo (English - HD)
+https://rr.strmd.top/secure/xfYoqGHJtO/charlie/stream/atletico-nacional-vs-sao-paulo-1377441/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHQgOIRBBAh+MYHia0qYFgm1chta+TD3gyoRCA.webp" group-title="StreamedSU - Football",CONMEBOL Libertadores: Penarol vs Racing Club (English - HD)
+https://rr.strmd.top/secure/vZtgDEhiBi/charlie/stream/penarol-vs-racing-club-1377453/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5gQ-EKpIgUmkHxARcIACYgY+42fgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Cooks Hill United vs Newcastle Jets (English - HD)
+https://rr.strmd.top/secure/aNOBCWakLT/charlie/stream/cooks-hill-united-vs-newcastle-jets-1419572/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHS8QEENlwEYwPE1pUwLBNq5DaV8mDvBlQiEA.webp" group-title="StreamedSU - Football",African Nations Championship: Madagascar vs Central African Republic (English - HD)
+https://rr.strmd.top/secure/nyzPIXmqGg/charlie/stream/madagascar-vs-central-african-republic-1419223/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Club Friendly: Juventus vs Juventus U23 (English - HD)
+https://rr.strmd.top/secure/bfQRMvNmcV/charlie/stream/juventus-vs-juventus-u23-1629455877/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHS8QEENj4EYwPE1pUwLBNq5DaV8mDvBlQiEA.webp" group-title="StreamedSU - Football",African Nations Championship: Mauritania vs Burkina Faso (English - HD)
+https://rr.strmd.top/secure/JqcylrgpqU/charlie/stream/mauritania-vs-burkina-faso-1419224/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgAJmHDgs6kNxAQDIY8ZgnEZiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Bolton Wanderers vs Sheffield Wednesday (English - HD)
+https://rr.strmd.top/secure/SHUuAUnood/charlie/stream/bolton-vs-sheffield-wednesday-1393263/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhua4ABNO+NSE0g+hkCVzHT6+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Huddersfield Town vs Leicester City (English - HD)
+https://rr.strmd.top/secure/lDUMijgLlM/charlie/stream/huddersfield-vs-leicester-1393275/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA.webp" group-title="StreamedSU - Football",Paris SG vs Tottenham Hotspur (English - HD)
+https://rr.strmd.top/secure/OXXSlHVCqw/charlie/stream/paris-saint-germain-vs-tottenham-1377400/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHS9DhEHP4xgeJrSpgWCbVyG1L5MLeDKhEIA.webp" group-title="StreamedSU - Football",CONMEBOL Libertadores: Cerro Porteno vs Estudiantes L.P. (English - HD)
+https://rr.strmd.top/secure/qzUZISOcrH/charlie/stream/cerro-porteno-vs-estudiantes-lp-1377451/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHQhEhHCA78YwPE1pUwLBNq5DaV8mDvBlQiEA.webp" group-title="StreamedSU - Football",CONMEBOL Sudamericana: Bolivar vs Cienciano (English - HD)
+https://rr.strmd.top/secure/IMzmHEjFkF/charlie/stream/bolivar-vs-cienciano-1414172/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1alylasAAmFcRGBdGYYALSRWwjfHQhEIQzn4xgeJrSpgWCbVyG1L5MLeDKhEIA.webp" group-title="StreamedSU - Football",Canadian Championship: Forge vs Vancouver Whitecaps (English - HD)
+https://rr.strmd.top/secure/OfqRevFtiG/charlie/stream/forge-vs-vancouver-whitecaps-1419977/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4hg+ENxDwwITSD769JEABMQMECcPwCFJnxRcwZHfXminTWmBdjREEA.webp" group-title="StreamedSU - Football",One Knoxville SC vs Richmond Kickers (English - HD)
+https://rr.strmd.top/secure/zgbYuDZUMS/charlie/stream/one-knoxville-vs-richmond-kickers-1326825/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Liverpool vs. Bournemouth (English - HD)
+https://rr.strmd.top/secure/zgbYuDZUMS/charlie/stream/one-knoxville-vs-richmond-kickers-1326825/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Chelsea vs. Crystal Palace (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGM1MGQzOTRmZDkyLTFiMGEtMjUwNC02MmZhLTYxYTE3ZDk2/master.m3u8?md5=tSC0Gjl6MAa0G_KVL7Nm4A&expires=1754995730&t=1754952530
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGM1MGQzOTRmZDkyLTFiMGEtMjUwNC02MmZhLTYxYTE3ZDk2/master.m3u8?md5=zfRFlT17WzAeQM5a0J0zJw&expires=1755008730&t=1754965530
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Manchester United vs. Arsenal (English - HD)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkZTZmJmZ2kTZxQjYtADN1IWL0UjY00iYyUGZtIDNxQWYhFDZ/master.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Dolphins @ Bears (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjhlNmJmNDlmZmFjLTQyNzgtNGNjNC1hYTMzLWE3Y2Y3NjJh/master.m3u8?md5=a-WF8GKrH38aLn4tNAgbhw&expires=1754995776&t=1754952576
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Broncos @ 49ers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjAwOWM3YWE1MzNkLTRiODktNzJhNC04MThhLWM4MGUwMDUx/master.m3u8?md5=DrwN48kUlMRn876rRCoftw&expires=1754995785&t=1754952585
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Jets @ Packers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjVlNmNkMDY5NWUzLWI4OTgtMzkwNC02OGJlLTI5ZThkY2M2/master.m3u8?md5=u9HMeo3_fdfwcKXrqFkhtw&expires=1754995794&t=1754952594
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Chiefs @ Cardinals (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTI3ZGJmYzI4NjYxLWJkOGEtNWRlNC1hNGU3LTRmOWRkZTRm/master.m3u8?md5=76yqvoGFM_7lavYeXxyh_A&expires=1754995802&t=1754952602
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp" group-title="StreamedSU - Baseball",Cincinnati Reds vs Philadelphia Phillies (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyYWZiF2YjJjNwcTNtY2MmlTL2kzN00SZkRTYtgTOwQTN0UDO/master.m3u8
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Chicago Cubs at St. Louis Cardinals (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjBlNDcxMWJlYmI2LThmZTgtNzA0NC04YzM0LWNjNDM2ZTQ4/master.m3u8?md5=tTvAsxd6kULm5gb0Lcbxbw&expires=1754995925&t=1754952725
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Boston Red Sox at San Diego Padres (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjI4OTAwMjNjNGFmLTI5NmItZDQ0NC01YWJmLTBiMWNmYTRi/master.m3u8?md5=9houNvpSYgecxuKXGqUphQ&expires=1754995933&t=1754952733
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Toronto Blue Jays at Los Angeles Dodgers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjQyY2E2ZmU3MjdmLTI3Y2EtNGMwNC04NThlLTkwMmRkNWI4/master.m3u8?md5=-nd6DwXDkAeJWJIuXuKNZg&expires=1754995942&t=1754952742
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Tampa Bay Rays at Seattle Mariners (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmM4OGQ1YzViYTNmLWRhN2ItOGM4NC1hYzBhLTdmOWQ2NTM4/master.m3u8?md5=PrLc42kCcp3EooKSlCWVZA&expires=1754995950&t=1754952750
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Colorado Rockies at Arizona Diamondbacks (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjZkNTE4NmUyZDM0LTJjMGEtZTYxNC0xN2YwLTVkNTM4Njdm/master.m3u8?md5=18LYd-dlZTi4g5CyPXql0Q&expires=1754995959&t=1754952759
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Washington Nationals at San Francisco Giants (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjUzNzdmYWM5NzEyLTIxOWItMTAyNC1hNThlLWE1M2YzNmVj/master.m3u8?md5=HyiIFubMGqMPAzPNJGSSzQ&expires=1754995968&t=1754952768
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Philadelphia Phillies at Texas Rangers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmZjYjIwMTBmYjhkLTlhN2EtYTUzNC04NGQ5LWE0MTcyOTQ4/master.m3u8?md5=HlYXj1GcbRzItZMlyVu2gw&expires=1754995976&t=1754952776
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",New York Mets at Milwaukee Brewers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2U4NjkxNTRjMzJmLTUyOGEtMDFkNC05NTc0LWM4MzE3Mzdm/master.m3u8?md5=CoYe1MruGx-8KWq0uH105g&expires=1754995985&t=1754952785
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Cleveland Guardians at Chicago White Sox (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjZkNTc1OTZhZWNhLTU2MzktOWY3NC01ZGM0LWEwZTQ2MTVm/master.m3u8?md5=FUzvwCEp3KLgF9ITIAkssw&expires=1754995994&t=1754952794
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Los Angeles Angels at Detroit Tigers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU1ZTU4ZmE4NjIzLTc4Y2EtNjFiNC1jYzA5LWE0NGQ3ZDE4/master.m3u8?md5=9ptUqmAuusYQTOn-ukyc9A&expires=1754996003&t=1754952803
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Miami Marlins at Atlanta Braves (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDBmZjBhNzFhMjI3LTBkNmItNDA0NC03MDQzLTE1M2NjMTRl/master.m3u8?md5=o6LVIu9l7sALn9M0a2E5xQ&expires=1754996012&t=1754952812
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Houston Astros at New York Yankees (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxkTZmJ2MykzN3EjMtYWZ3EWLxITN00yNyEDMtU2Y2czN1QjN/master.m3u8
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Athletics at Baltimore Orioles (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzIxZTkyZWVjMTM3LTg3ZWEtN2MyNC02ODAxLWQzNTgwNDFh/master.m3u8?md5=YQzlM6aiX75MYoIubm-nVg&expires=1754996032&t=1754952832
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Cincinnati Reds at Pittsburgh Pirates (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDc0ZmM1ODlhYjgyLWRlZmEtZTg1NC1kYTUyLWFlYWU2NGEy/master.m3u8?md5=3uXmrm4ez0-_-gMnxcYIyg&expires=1754996042&t=1754952842
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Kansas City Royals at Minnesota Twins (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5ITYmJGZwITOmRWMtE2MkJWL0UmN00SNkNmNtEDNxUjYmdjN/master.m3u8
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Tampa Bay Rays at Seattle Mariners (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmM4OGQ1YzViYTNmLWRhN2ItOGM4NC1hYzBhLTdmOWQ2NTM4/master.m3u8?md5=RUG7tLwb_CKLghFSIGnfYg&expires=1754996074&t=1754952874
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Toronto Blue Jays at Los Angeles Dodgers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjQyY2E2ZmU3MjdmLTI3Y2EtNGMwNC04NThlLTkwMmRkNWI4/master.m3u8?md5=C-TZNP3iyPj1EvGFDsw69Q&expires=1754996089&t=1754952889
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Boston Red Sox at San Diego Padres (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjI4OTAwMjNjNGFmLTI5NmItZDQ0NC01YWJmLTBiMWNmYTRi/master.m3u8?md5=3Yn8ZIeGFuVUKV6q7pqLnA&expires=1754996100&t=1754952900
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Colorado Rockies at Arizona Diamondbacks (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjZkNTE4NmUyZDM0LTJjMGEtZTYxNC0xN2YwLTVkNTM4Njdm/master.m3u8?md5=AUd_oUrgAQKmv1fQpF_QIw&expires=1754996112&t=1754952912
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",New York Yankees vs Minnesota Twins (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyQGOiNjZjFTOhZTNtYzYklTLxEDM00SO3ETMtcjNzQGM0EmN/master.m3u8
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Pittsburgh Pirates (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=odeBkQUzc0aFjE9zxT6duw&expires=1754996254&t=1754953054
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Kansas City Royals vs Washington Nationals (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MWZlZDdmOGE4MzgyLTIyOGEtMmRlNC0wZGU4LTdlNzNhZjY2/master.m3u8?md5=N_ycvI8eXhJNLj13Yc_K3A&expires=1754996417&t=1754953217
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title="StreamedSU - Baseball",Chicago White Sox vs Detroit Tigers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=6KLgC-LbqT0-Q8kiImQUPw&expires=1754996436&t=1754953236
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Colorado Rockies (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjBlNDcxMWJlYmI2LThmZTgtNzA0NC04YzM0LWNjNDM2ZTQ4/master.m3u8?md5=umisRqW62Hcfut9eZUKEGA&expires=1754996650&t=1754953450
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Texas Rangers vs Arizona Diamondbacks (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmZjYjIwMTBmYjhkLTlhN2EtYTUzNC04NGQ5LWE0MTcyOTQ4/master.m3u8?md5=zCyW04b5biTKIm_BosRbjw&expires=1754996931&t=1754953731
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp" group-title="StreamedSU - Baseball",Houston Astros vs Boston Red Sox (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzlhOGE3NjZlNjZmLTNiM2ItZjM5NC0wMmMzLWE1YmU4NjQw/master.m3u8?md5=uk8J2niXcwFokzGvHaBoBw&expires=1754997237&t=1754954037
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Baseball",Los Angeles Angels vs Los Angeles Dodgers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGMyYmI2MzVkNzNkLTQzYjktZmJlNC1hMjliLWRhOTdhZDBh/master.m3u8?md5=xCncdPpzZzuFF40M8-ajsg&expires=1754997481&t=1754954281
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",NFL Network (English - HD)
+https://rr.strmd.top/secure/rCbiyzwTDE/alpha/stream/nfl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",ESPN (English - HD)
+https://rr.strmd.top/secure/gAQpIybMHS/alpha/stream/espn/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaXiBDAAJiAsNT5q4npnLICCEIghiGJ+ARWzowsnmYgiMHkbuTkfAQwwHi6dGAs8v6SQrSJ5GApfqx+QA.webp" group-title="StreamedSU - American Football",AFL Womens Premiership: Collingwood Magpies vs Carlton Blues (English - HD)
+https://rr.strmd.top/secure/wiULDDRabG/charlie/stream/collingwood-magpies-vs-carlton-blues-1629455902/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulCAxCJs9ECGAATENhh2yICCCGJJV026e2zbp4g9pL+plYw1lIETni6dGAs8qaSQrRx5GCJwKZCEEA.webp" group-title="StreamedSU - American Football",NRL: Melbourne Storm vs Penrith Panthers (English - HD)
+https://rr.strmd.top/secure/izZqHQrDXA/charlie/stream/melbourne-storm-vs-penrith-panthers-1629455903/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEB1OsQhEEJbWQEBiHK3mEEO+aTEb2vRAATEGVgQKtJMzdQgPt+GGA8XTowFnkHSSFaBPIwZOAHIQggA.webp" group-title="StreamedSU - American Football",AFL Womens Premiership: Gold Coast SUNS vs West Coast Eagles (English - HD)
+https://rr.strmd.top/secure/QhUHDqwtyn/charlie/stream/gold-coast-suns-vs-west-coast-eagles-1629455904/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Seattle Seahawks vs Kansas City Chiefs (English - HD)
+https://rr.strmd.top/secure/QhUHDqwtyn/charlie/stream/gold-coast-suns-vs-west-coast-eagles-1629455904/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp" group-title="StreamedSU - Baseball",Athletics vs Tampa Bay Rays (English - HD)
+https://rr.strmd.top/secure/CJpTehlsZI/alpha/stream/athletics-vs-tampa-bay-rays/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLDcQ67mBQMQakrl3qQKEABMzBxhSZ9tbMGXhF5o7U1pgHY0RCA.webp" group-title="StreamedSU - Baseball",San Francisco Giants vs San Diego Padres (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=fmbqHuLzytR8gRs6YWnKlg&expires=1754997514&t=1754954314
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LzImMhFDO4EmZ2YTOtQWZwkTLhdDN00iMygTNtUGNyAjM0UTN/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Baseball",Los Angeles Angels vs Los Angeles Dodgers (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5UmNzEDZ5AjNkFjYtQDOllTLhRjM00SZxMmYtUWOjZTY4UjZ/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp" group-title="StreamedSU - Baseball",Houston Astros vs Boston Red Sox (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkF2MmZTYzYDM1QzNtUDO5EWLiZWN00SYxYzMtQjY4ATNxYWZ/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Texas Rangers vs Arizona Diamondbacks (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVTMkhDOwIGMiVTYtM2YklTLjFGM00SN4ATOtYDZ5UjYwETO/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaXiBYhsHC52ARrAEwZmQhEHcdXaV8uSv1TVnau5q525v7mHPwwwHi6dGAs8hA2QrRx5GCJtqy2QA.webp" group-title="StreamedSU - Baseball",Colorado Rockies vs. St. Louis Cardinals (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LilDOiVTNygzMhJTOtcDN5gTLkJTY00SOmFmZtMDZygDZ2QDO/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEOUb0QhEBxDLbIIQBNgETrxCOQryRZD2rZgwOZNbCnrSeIMCO-DDAeLp0YCzy3qxY8WJgyS7pEEA.webp" group-title="StreamedSU - Baseball",Washington Nationals vs. Kansas City Royals (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwYGNhJTOmVDZwQmYtkjM1kTL4gjM00yN5QzNtAjY5I2MjRjZ/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEABMQk8hxBDzhEPZDBzEViFqngEEImy-OvDYObiCBiJL0QZ5sBDDAeLp0YCzyrpJCtAnkYMlerF5AA.webp" group-title="StreamedSU - Baseball",Pittsburgh Pirates vs. Milwaukee Brewers (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyUTOwQGNxIDZzEGZtITYhhTL0UDZ00iY0EGMtgjM5YTYwIzY/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulcow4hBvEOQjWQ9xgYvAAJpxzAIZe3cSIXIOYB9l4BhCBCLvwwwHi6dGAs8l6SQrRx5GCJnqyeQA.webp" group-title="StreamedSU - Baseball",Detroit Tigers vs. Chicago White Sox (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LmBzN3MGM2EDN5UGZtkzYkhTLzATM00SO5ADOtcTYlhzM0kTO/master.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRDZ65BgGNmonvElUhhBqzBhc+E0A.webp" group-title="StreamedSU - Baseball",New York Yankees vs Minnesota Twins (English - HD)
+https://rr.strmd.top/secure/dgSkTTHEeU/alpha/stream/new-york-yankees-vs-minnesota-twins/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46ECHrkGAY2aie8SVSGEGrMGFz4jQA.webp" group-title="StreamedSU - Baseball",Cincinnati Reds vs Philadelphia Phillies (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjEzZTg1YjliOTBlLTEwZGEtNmIyNC05NjU2LTliZjE1OGVj/master.m3u8?md5=6aKNLu3vpfOc6pTxfgfEAA&expires=1755008967&t=1754965767
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",NFL NETWORK ( - HD)
+https://rr.strmd.top/secure/yotmqOUmJX/foxtrot/stream/6570a839bae85135f61b12cb/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",MLB Network (English - HD)
+https://rr.strmd.top/secure/nTLrLozMLl/alpha/stream/mlb-network/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp" group-title="StreamedSU - Baseball",Baltimore Orioles vs Seattle Mariners (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzIxZTkyZWVjMTM3LTg3ZWEtN2MyNC02ODAxLWQzNTgwNDFh/master.m3u8?md5=cTM1CWCqDD59_HIOTp3R0A&expires=1754997937&t=1754954737
+https://rr.strmd.top/secure/AohpxZtgup/charlie/stream/seattle-mariners-vs-baltimore-orioles-1629455849/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp" group-title="StreamedSU - Baseball",Cleveland Guardians vs Miami Marlins (English - HD)
+https://rr.strmd.top/secure/UyNYDKxSEH/charlie/stream/miami-marlins-vs-cleveland-guardians-1629455851/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp" group-title="StreamedSU - Baseball",Cincinnati Reds vs Philadelphia Phillies (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyEzMlhTNiljY5ATZtEDMkFWL2ImM00SO2UjNtkjYmFTN4U2Y/master.m3u8
+https://rr.strmd.top/secure/bkjgldaDJL/charlie/stream/philadelphia-phillies-vs-cincinnati-reds-1629455850/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",New York Yankees vs Minnesota Twins (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxkTZmJ2MykzN3EjMtYWZ3EWLxITN00yNyEDMtU2Y2czN1QjN/master.m3u8
+https://rr.strmd.top/secure/KtszFtIABk/charlie/stream/minnesota-twins-vs-new-york-yankees-1629455852/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs Chicago Cubs (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjkzYjZjYjQ0YWIxLTQ5MGEtODVjNC00ZDY0LWUzNjUzMDU3/master.m3u8?md5=UbilyVtND_z25ikYmG2UKQ&expires=1754998136&t=1754954936
+https://rr.strmd.top/secure/aIoxOdfPBV/charlie/stream/chicago-cubs-vs-toronto-blue-jays-1629455853/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp" group-title="StreamedSU - Baseball",New York Mets vs Atlanta Braves (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGE2MTA4OThkYjI5LTRiZTgtZjY4NC1iMTQ4LTBiNDg0YzU2/master.m3u8?md5=BeoH5J9GBC6zbhid5qri1A&expires=1754998189&t=1754954989
+https://rr.strmd.top/secure/MIvBneBoGQ/charlie/stream/atlanta-braves-vs-new-york-mets-1629455854/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Pittsburgh Pirates (English - HD)
+https://rr.strmd.top/secure/MhcqftZtpW/charlie/stream/pittsburgh-pirates-vs-milwaukee-brewers-1629455858/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Kansas City Royals vs Washington Nationals (English - HD)
-https://rr.strmd.top/secure/zCRSKXCZZE/charlie/stream/washington-nationals-vs-kansas-city-royals-1629455859/1/playlist.m3u8
+https://rr.strmd.top/secure/eoYSzjwKDj/charlie/stream/washington-nationals-vs-kansas-city-royals-1629455859/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title="StreamedSU - Baseball",Chicago White Sox vs Detroit Tigers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiZDZ1cTN5YTYlNWYtUjNzkTL5Y2N00SNkNGNtEGMlRjNxUjZ/master.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - GP of Portland (English - HD)
-https://rr.strmd.top/secure/YUBHpPOHct/charlie/stream/chicago-cubs-vs-toronto-blue-jays-1629455924/1/playlist.m3u8
+https://rr.strmd.top/secure/GrHduTymsz/charlie/stream/detroit-tigers-vs-chicago-white-sox-1629455860/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Colorado Rockies (English - HD)
+https://rr.strmd.top/secure/cJGCZTHCJB/charlie/stream/colorado-rockies-vs-st-louis-cardinals-1629455861/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Texas Rangers vs Arizona Diamondbacks (English - HD)
+https://rr.strmd.top/secure/aSfzQCWGYC/charlie/stream/arizona-diamondbacks-vs-texas-rangers-1629455862/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp" group-title="StreamedSU - Baseball",Houston Astros vs Boston Red Sox (English - HD)
+https://rr.strmd.top/secure/oUdqrjvHJa/charlie/stream/boston-red-sox-vs-houston-astros-1629455863/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Baseball",Los Angeles Angels vs Los Angeles Dodgers (English - HD)
+https://rr.strmd.top/secure/KRHBDeNAKO/charlie/stream/los-angeles-dodgers-vs-los-angeles-angels-1629455864/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLDcQ67mBQMQakrl3qQKEABMzBxhSZ9tbMGXhF5o7U1pgHY0RCA.webp" group-title="StreamedSU - Baseball",San Francisco Giants vs San Diego Padres (English - HD)
+https://rr.strmd.top/secure/AyNHeRiEVQ/charlie/stream/san-diego-padres-vs-san-francisco-giants-1629455865/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp" group-title="StreamedSU - Baseball",Athletics vs Tampa Bay Rays (English - HD)
+https://rr.strmd.top/secure/BARKDANnIj/charlie/stream/tampa-bay-rays-vs-athletics-1629455866/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwAJiERriaENxAaSIIxFW4QFlAYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Iowa Cubs vs Worcester Red Sox (English - HD)
+https://rr.strmd.top/secure/zdbcFFutrW/charlie/stream/worcester-red-sox-vs-iowa-cubs-1629455878/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Kansas City Royals vs Washington Nationals (English - HD)
+https://rr.strmd.top/secure/fwJmQpuKpC/charlie/stream/washington-nationals-vs-kansas-city-royals-1629455882/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title="StreamedSU - Baseball",Chicago White Sox vs Detroit Tigers (English - HD)
+https://rr.strmd.top/secure/jCycPvjBpK/charlie/stream/detroit-tigers-vs-chicago-white-sox-1629455881/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Pittsburgh Pirates (English - HD)
+https://rr.strmd.top/secure/dvXVaVQMXY/charlie/stream/pittsburgh-pirates-vs-milwaukee-brewers-1629455880/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Colorado Rockies (English - HD)
+https://rr.strmd.top/secure/uqfQGtXcHz/charlie/stream/colorado-rockies-vs-st-louis-cardinals-1629455885/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Texas Rangers vs Arizona Diamondbacks (English - HD)
+https://rr.strmd.top/secure/mWwUxXCXMo/charlie/stream/arizona-diamondbacks-vs-texas-rangers-1629455886/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLDcQ67mBQMQakrl3qQKEABMzBxhSZ9tbMGXhF5o7U1pgHY0RCA.webp" group-title="StreamedSU - Baseball",San Francisco Giants vs San Diego Padres (English - HD)
+https://rr.strmd.top/secure/uszFxRiVbh/charlie/stream/san-diego-padres-vs-san-francisco-giants-1629455887/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp" group-title="StreamedSU - Baseball",Cincinnati Reds vs Philadelphia Phillies (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjEzZTg1YjliOTBlLTEwZGEtNmIyNC05NjU2LTliZjE1OGVj/master.m3u8?md5=YYNbagyVJgi-AIMG6Pvijg&expires=1755009236&t=1754966036
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp" group-title="StreamedSU - Baseball",Baltimore Orioles vs Seattle Mariners (English - HD)
+https://rr.strmd.top/secure/qWePdMuLit/charlie/stream/seattle-mariners-vs-baltimore-orioles-1629455889/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp" group-title="StreamedSU - Baseball",Cleveland Guardians vs Miami Marlins (English - HD)
+https://rr.strmd.top/secure/YyhCNNqXUC/charlie/stream/miami-marlins-vs-cleveland-guardians-1629455890/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",New York Yankees vs Minnesota Twins (English - HD)
+https://rr.strmd.top/secure/XUGKsOamvK/charlie/stream/minnesota-twins-vs-new-york-yankees-1629455891/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs Chicago Cubs (English - HD)
+https://rr.strmd.top/secure/iMgQuKggzJ/charlie/stream/chicago-cubs-vs-toronto-blue-jays-1629455892/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp" group-title="StreamedSU - Baseball",New York Mets vs Atlanta Braves (English - HD)
+https://rr.strmd.top/secure/dQNxjyOtlw/charlie/stream/atlanta-braves-vs-new-york-mets-1629455894/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp" group-title="StreamedSU - Baseball",Houston Astros vs Boston Red Sox (English - HD)
+https://rr.strmd.top/secure/zPBOqntKJd/charlie/stream/boston-red-sox-vs-houston-astros-1629455893/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulCCA5myOEC2sgAJiGwgGIcjezn39kBFaOrbvYukubYNvSu-DDAeLp0YCzyvpJCtLHkYAnAvkIQQA.webp" group-title="StreamedSU - Baseball",MLB: Los Angeles Dodgers vs Los Angeles Angels (English - HD)
+https://rr.strmd.top/secure/KBujvkdVRR/charlie/stream/los-angeles-dodgers-vs-los-angeles-angels-1629455900/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEBBAsQAExCJCOKyGZDLZR24vYOIWhE5-rMCCS1tYg3vaBjBa4BDDAeLp0YCzyvpJCtAnkYMnAvkIQQA.webp" group-title="StreamedSU - Baseball",MLB: Seattle Mariners vs Baltimore Orioles (English - HD)
+https://rr.strmd.top/secure/nDrOEGPRib/charlie/stream/seattle-mariners-vs-baltimore-orioles-1629455920/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEB1NlTIACbAr11sAghnhECxCv3zmBZCsQEJy8luR2rnYwbjgBpvw+eLp0YCzygZJCtAnkYMmODhBAA.webp" group-title="StreamedSU - Baseball",MLB: Chicago Cubs vs Toronto Blue Jays (English - HD)
+https://rr.strmd.top/secure/IYErdKBTDm/charlie/stream/chicago-cubs-vs-toronto-blue-jays-1629455924/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulCCAgMQAExAsQ2S614hCT0xxzOyHt2d-07XtjMiEKItKZsBDDAeLp0YCzy5pJCtLHkYAnA5kIQQA.webp" group-title="StreamedSU - Baseball",MLB: Miami Marlins vs Cleveland Guardians (English - HD)
+https://rr.strmd.top/secure/HQuKsmTFDE/charlie/stream/miami-marlins-vs-cleveland-guardians-1629455927/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulCDmAQGIDiBYhCV8+d5kQrkC4AmT+69oXrMG4wrG601q6BIPzBeLp0YCzy-qxYwLHkYAmOQhBAA.webp" group-title="StreamedSU - Baseball",MLB: Philadelphia Phillies vs Washington Nationals (English - HD)
+https://rr.strmd.top/secure/wjNRbvavDy/charlie/stream/philadelphia-phillies-vs-washington-nationals-1629455928/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEBBDYLISYhZWGp1uZCFnwACadHbqzhDl6dmYcPgHettjefAQwwHi6dGAs8hCeQrRx5GCJwClCEEA.webp" group-title="StreamedSU - Baseball",MLB: Atlanta Braves vs New York Mets (English - HD)
+https://rr.strmd.top/secure/NnHIoQlOzW/charlie/stream/atlanta-braves-vs-new-york-mets-1629455932/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulcow4hBvEOQjWQ9xgYvAAJpxzAIZe3cSIXIOYB9l4BhCBCLvwwwHi6dGAs8l6SQrRx5GCJnqyeQA.webp" group-title="StreamedSU - Baseball",MLB: Detroit Tigers vs Minnesota Twins (English - HD)
+https://rr.strmd.top/secure/xcmhOxUNLU/charlie/stream/detroit-tigers-vs-minnesota-twins-1629455933/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",MILB: Worcester Red Sox vs Iowa Cubs (English - HD)
+https://rr.strmd.top/secure/uIcyYZSQXd/charlie/stream/worcester-red-sox-vs-iowa-cubs-1629455934/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulDiEIhs5oYnOTTtU5JYWQr5owhkXAExydXXt6s-p6+dvwwwHi6dGAs8p5OWFFiYHHAnkIQQA.webp" group-title="StreamedSU - Baseball",MLB: Arizona Diamondbacks vs Colorado Rockies (English - HD)
+https://rr.strmd.top/secure/WcWLaZwXPK/charlie/stream/arizona-diamondbacks-vs-colorado-rockies-1629455935/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - GP of Monterey (English - HD)
+https://rr.strmd.top/secure/WcWLaZwXPK/charlie/stream/arizona-diamondbacks-vs-colorado-rockies-1629455935/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Sky Sports F1 | Sky F1 (English - HD)
+https://rr.strmd.top/secure/kqIoWNtLFm/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE: Monday Night RAW (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE Network (English - HD)
+https://rr.strmd.top/secure/McKzPVxBoJ/alpha/stream/wwe-network/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",MMA: Dana White's Contender Series: Season 9, Week 1 (English - HD)
+https://rr.strmd.top/secure/UhybXXOeyE/charlie/stream/dana-whites-contender-series-season-9-week-1-1629455855/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE: NXT (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",UFC: Team Cormier vs Team Sonnen (English - HD)
+https://rr.strmd.top/secure/LsuCyfUUxP/charlie/stream/team-cormier-vs-team-sonnen-1629455869/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WBC Boxing Grand Prix: Quarter-Finals - Day 1 (English - HD)
+https://rr.strmd.top/secure/UAzlyzTvlQ/charlie/stream/quarter-finals-day-1-1629455870/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",AEW: Wednesday Night Dynamite (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",MMA: PFL Weigh-In Show (English - HD)
+https://rr.strmd.top/secure/WVLHjrZAuD/charlie/stream/pfl-weigh-in-show-1629455926/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",TNA: Impact (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE: Friday Night Smackdown (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",AEW: Saturday Night Collision (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",WWE Monday Night Raw (English - HD)
+https://rr.strmd.top/secure/jXakEcpMrH/bravo/stream/1754956800000-wwe-monday-night-raw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IRDBDZl9cgwDGzST3hiq3Al1ZgwufFaA.webp" group-title="StreamedSU - Other",Australia vs South Africa ( - HD)
+https://rr.strmd.top/secure/CSKCEqRSmz/echo/stream/australia-south-africa-2nd-t20-cricket-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Saudi Arabia Snooker Masters | Last 32 🎱 ( - HD)
+https://rr.strmd.top/secure/xLzhkmUtTt/echo/stream/saudi-arabia-snooker-masters-last-32-pick3/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Tour of Poland Women | Stage 1 - Zamość (105.6km) ( - HD)
+https://rr.strmd.top/secure/YoiRiJMeTF/echo/stream/tour-of-poland-women-stage-1-zamosc-1056km-cyc-2025/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Tour of Denmark | Stage 1 | Highlights - Men | Nexø - Rønne (178.3km) 🚴 ( - HD)
+https://rr.strmd.top/secure/hsTfpVpixX/echo/stream/tour-of-denmark-stage-1-highlights-men-nexo-ronne-1783km-cycling-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Birmingham Phoenix v Oval Invincibles | The Hundred Women's & Men's ( - HD)
+https://rr.strmd.top/secure/cClZCVRJzy/echo/stream/birmingham-phoenix-v-oval-invincibles-the-hundred-womens-mens-cricket-hundred-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",JCW: Tuesday Night Lunacy - Live From The Gathering Of The Juggalos (English - HD)
+https://rr.strmd.top/secure/FrfFAqSwcz/charlie/stream/tuesday-night-lunacy-live-from-the-gathering-of-the-juggalos-1629455868/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Tekken 8: Tekken 8 25 - Main Feed | Day 1 (English - HD)
+https://rr.strmd.top/secure/HPrnlCZgdL/charlie/stream/tekken-8-25-main-feed-or-day-1-1629455872/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UCI Pro Series: ES2 | Tour of Denmark, Stage 1 (English - HD)
+https://rr.strmd.top/secure/qGLTxDixHn/charlie/stream/es2-or-tour-of-denmark-stage-1-1629455873/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Saratoga Live: Saratoga Live (English - HD)
+https://rr.strmd.top/secure/oWdOZIeUxv/charlie/stream/saratoga-live-1629455879/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UCI Europe Tour: Tour of Czech Republic | Stage 1 (English - HD)
+https://rr.strmd.top/secure/RGifObtLGj/charlie/stream/tour-of-czech-republic-or-stage-1-1629455906/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Tekken 8: Tekken 8 25 - Main Feed | Day 2 (English - HD)
+https://rr.strmd.top/secure/vEXIAzVBTj/charlie/stream/tekken-8-25-main-feed-or-day-2-1629455910/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UCI Pro Series: Tour of Denmark | Stage 2 (English - HD)
+https://rr.strmd.top/secure/sOEjwWQBga/charlie/stream/tour-of-denmark-or-stage-2-1629455909/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Saratoga Live: Saratoga Live (English - HD)
+https://rr.strmd.top/secure/GvHgXZRvgQ/charlie/stream/saratoga-live-1629455921/1/playlist.m3u8
