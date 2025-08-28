@@ -3262,20 +3262,6 @@ http://1tv41.icu:8080/5ZCJFs/416986/78918
 #EXTINF:-1  tvg-name="TVJ Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" group-title="Mystique Caribbean" radio="false",TVJ Sports (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/66077
 
-#EXTGRP:Mystique Presents: Web Channels
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boomerang.png" group-title="Mystique Presents: Web Channels" radio="false",Classic Boomerang 24/7
-https://cdn.webvision.fun/memfs/3cc2fa80-1aa6-4e09-b4cf-27c80f112fa9_output_0.m3u8?session=eYreWjjeY4PaubKtCNs9zg
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://webvision.fun/assets/logos/eel.png" group-title="Mystique Presents: Web Channels" radio="false",EEL Channel (webchnl)
-https://delta.webchnl.live/memfs/1300c062-d4cd-402c-baf6-084dc5192fac.m3u8
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://webvision.fun/assets/logos/eel.png" group-title="Mystique Presents: Web Channels" radio="false",EEL Channel (webvision)
-https://cdn.webvision.fun/memfs/6193a8f9-103d-4bdf-99f3-e563b748037b_output_0.m3u8?session=9xJSukt2hsS7AAbyzdGmHq
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Magic.png" group-title="Mystique Presents: Web Channels" radio="false",MagicalTV
-https://cdn.webvision.fun/memfs/b2748cbb-a572-4fa0-979b-1277fd050167_output_0.m3u8?session=LsuM3Zsi6eesDemRhBMjt3
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/spark-5-logo-png-transparent.png" group-title="Mystique Presents: Web Channels" radio="false",Spark
-https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577_output_0.m3u8?session=k3biEf7ZLAsh6JVGCTJiLt
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/YuQ6w-gHkWVkfRWg/SlineSelect.png" group-title="Mystique Presents: Web Channels" radio="false",Streamline Select
-http://plyr.streamlinecsn.online/memfs/f68af325-4915-4b07-8c96-0282daf2450e.m3u8
-
 #EXTGRP:NCAAF
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ohio Bobcats @ Rutgers Scarlet Knights - 8/28/25, 10:00:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF",Ohio Bobcats @ Rutgers Scarlet Knights - 8/28/25, 10:00:00 PM UTC
 https://v3.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=431WiCOdoXqXbv3oh1mSQg&expires=1756423826&user_id=cG5pdUNpY3hQVGxDcUtaVE5yR1VlaDRCR05xTXgyQXR5eWYzeXJIQQ==
