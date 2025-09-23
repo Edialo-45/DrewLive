@@ -5796,7 +5796,7 @@ https://gg.poocloud.in/epl_aston-villa/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_athletic-club/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/laliga_athletic-club/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/449529f5aa087dbba0267a60aaf74475-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Atlético de Madrid vs. Rayo Vallecano
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -5922,11 +5922,16 @@ https://gg.poocloud.in/seriea_juventus/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/seriea_lecce/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/40c0ec219b19552a87f3db5b3d3fa4b4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Leeds United vs. Bournemouth
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/epl_leeds/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1aa65aee917e279207afd850fade27bf-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Levante UD vs. Real Madrid
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_levante-ud/index.m3u8
+https://gg.poocloud.in/laliga_levante-ud/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/980401132992aed6bb02d1ee3ef1ecb7-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lille vs. Brann
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -6103,7 +6108,7 @@ https://gg.poocloud.in/uel_young-boys/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/southpark/index.m3u8
+https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:PPVLand - MLB
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c1559e9d0e26cefd7e720e2413c6d9bc-thumbnail.jpg" group-title="PPVLand - MLB",Boston Red Sox vs. Toronto Blue Jays
